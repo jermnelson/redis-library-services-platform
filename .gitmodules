@@ -1,0 +1,6 @@
+[submodule "aristotle-library-apps"]
+	path = aristotle-library-apps
+	url = https://github.com/jermnelson/aristotle-library-apps.git
+[submodule "bibframe-datastore"]
+	path = bibframe-datastore
+	url = https://github.com/jermnelson/BIBFRAME-Datastore

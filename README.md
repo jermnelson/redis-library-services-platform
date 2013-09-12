@@ -20,13 +20,18 @@ for a number of different platforms. The directory structure for a standalone RL
  run_rlsp.ps1
  run_rlsp.sh
  
-   
+### Microsoft Windows
+
+Download and install the following external modules that are necessary for RLSP:
+
+*   `lxml`, Windows installer at http://www.lfd.uci.edu/~gohlke/pythonlibs/
+
+*   `pycripto`, Windows installar is at http://www.voidspace.org.uk/python/modules.shtml
+    
+### Apple Macintosh
 
 
-This project also contains two light-weight web and json interfaces into the Redis
-Library Services Platform. The first is a json interface to a Redis Bibliographic 
-Datastore and the second is a json and html5 metadata services interface to a
-scientific, cultural, social, and historical datasets. The first implementation is
-a [ISA Commons](http://www.isacommons.org/) biological interface to a Redis Bibliographic
-Datastore.
+### Linux   
 
+
+## Running in Standalone Mode
