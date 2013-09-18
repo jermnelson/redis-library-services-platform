@@ -56,7 +56,7 @@ prior to running the platform. Here is the complete set of dependancies:
     website: [https://pypi.python.org/pypi/Whoosh/](https://pypi.python.org/pypi/Whoosh/)
 
 ## Installation
-Please see [INSTALL](wiki/INSTALL) for detailed instructions for installing the Redis Library Services
+Please see [INSTALL](/jermnelson/redis-library-services-platform/wiki/INSTALL) for detailed instructions for installing the Redis Library Services
 Platform on your operating system.
 
 ## Running in Standalone Mode
