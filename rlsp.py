@@ -24,7 +24,8 @@ class Platform(object):
                                            '0.0.0.0')
         self.django_port = kwargs.get('port', 8000)
         self.redis_process = None
-        self.working_dir = os.path.dirname(__file__)
+        self.working_dir = os.path.dirname(".")
+        print(self.working_dir)
         if sys.platform.startswith('win'):
             self.redis_bin_location = "winbinaries"
         else:
