@@ -55,8 +55,6 @@ prior to running the platform. Here is the complete set of dependancies:
 1.  **Whoosh** version 2.5.3, 
     website: [https://pypi.python.org/pypi/Whoosh/](https://pypi.python.org/pypi/Whoosh/)
 
-## Installation
-Please see [INSTALL](/jermnelson/redis-library-services-platform/wiki/INSTALL) for detailed instructions for installing the Redis Library Services
-Platform on your operating system.
-
-## Running in Standalone Mode
+## Installation and Running
+Please see the project's [wiki](https://github.com/jermnelson/redis-library-services-platform/wiki) for 
+directions installing Redis Library Services Platform on Linux and Windows 
