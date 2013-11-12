@@ -11,9 +11,9 @@ The Redis Library Services Platform includes the
 [Aristotle Library Apps][ALA], 
 [BIBFRAME Datastore][BDS],
 [Flask-FedoraCommons][FFC], and
-[Flask-Solr][FC] projects.
+[Flask-Solr][FS] projects.
 
-The [Flask-FedoraCommons][FFC] and [Flask-Solr][FC] are [Flask](http://flask.pocoo.org/) 
+The [Flask-FedoraCommons][FFC] and [Flask-Solr][FS] are [Flask](http://flask.pocoo.org/) 
 extensions meant for lightweight applications developed using Flask. For a more robust 
 application environment with mature and rich ecosystem, the [Aristotle Library Apps][ALA]
 is based on [Django][DJANGO]. 
