@@ -1,13 +1,22 @@
 [ALA]: https://github.com/jermnelson/aristotle-library-apps
 [BDS]: https://github.com/jermnelson/BIBFRAME-Datastore
+[DJANGO]: https://www.djangoproject.com/
+[FFC]: https://github.com/jermnelson/flask-fedora-commons/
+[FS]: https://github.com/jermnelson/flask-solr
 
 Redis Library Services Platform
 ===============================
 
 The Redis Library Services Platform includes the 
-[Aristotle Library Apps][ALA] and the 
-[BIBFRAME Datastore][BDS] projects and is 
-meant to coordinate continuous integration of these two projects.
+[Aristotle Library Apps][ALA], 
+[BIBFRAME Datastore][BDS],
+[Flask-FedoraCommons][FFC], and
+[Flask-Solr][FC] projects.
+
+The [Flask-FedoraCommons][FFC] and [Flask-Solr][FC] are [Flask](http://flask.pocoo.org/) 
+extensions meant for lightweight applications developed using Flask. For a more robust 
+application environment with mature and rich ecosystem, the [Aristotle Library Apps][ALA]
+is based on [Django][DJANGO]. 
 
 ## Dependancies
 The Redis Library Platfrom has a number of external dependancies that must be installed
