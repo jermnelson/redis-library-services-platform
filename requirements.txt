@@ -11,7 +11,7 @@ eulxml==0.19.1
 fuzzywuzzy==0.2
 html5lib==0.99
 isodate==0.4.9
-lxml==3.2.3
+lxml==4.6.2
 pillow==6.2.0
 ply==3.4
 poster==0.8.1
